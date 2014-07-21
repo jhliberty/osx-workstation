@@ -79,8 +79,8 @@ brew cask install firefox
 echo "install iterm2"
 brew cask install iterm2
 
-echo "install pckeyboardhack"
-brew cask install pckeyboardhack
+echo "install seil"
+brew cask install seil
 
 echo "install sizeup"
 brew cask install sizeup
